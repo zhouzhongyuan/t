@@ -1,5 +1,3 @@
 {
-  "node_env": "production",
-  "port": 8080,
-  "script": "app.js"
+  "default_script": "app.js"
 }
